@@ -1,4 +1,4 @@
-# DocBot — Capillary Documentation Chatbot Instructions
+# DocBot — Chatbot Instructions
 
 ## Step 1: Clone the Repository
 ```bash
@@ -71,5 +71,6 @@ retriever = Retriever("docs_content.json")
 streamlit run app.py
 ```
 - Ask questions about the Capillary documentation.
+
 
 
